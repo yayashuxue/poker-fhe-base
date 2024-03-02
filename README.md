@@ -8,11 +8,14 @@ With the latest Fully Homomorphic Encryption technology (FHE), we can have smart
 Layer 3 - While there is a lot of optimization going on on L2, having a game layer (layer 3) is very important and can make ux even smoother. We want to implement or integrate layer 3 to make the poker game smoother.
 AA - AA can also reduce the interaction one needs to have on-chain per poker game to 0.
 
-# lateset contract deployed
+## lateset contract deployed
 https://sepolia.basescan.org/address/0x312e64d300d4D9e2E528fde8a8fd1c4e1002e64E
 
-# Poker-fhe-base
+## Poker-fhe-base
 Fully on-chain &amp; fair poker using FHE &amp; base
 
-# Deploy
+## Deploy
 Since this is deployed on remix, highly suggest going to it to deploy
+
+## contact
+find x:@julieshi_eth if have any question
